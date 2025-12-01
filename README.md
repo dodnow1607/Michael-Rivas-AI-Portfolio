@@ -1,2 +1,2 @@
 # Michael-Rivas-AI-Portfolio
-This is a professional outlook of the work and dedication provided by the owner  of this repository. With the guidance from academic directive please be aware that current technical skills may vary.
+# This repository reflects both dedication and continuous effort. While I am still early in my journey and may occasionally stumble, my technical skills are steadily developing through academic guidance and hands-on trial-and-error. What truly matters is my ability to tackle challenges reliably, adapt quickly, and contribute wherever the team needs it most. With this approach, I aim to be a dependable and sure-fire asset to any team.
